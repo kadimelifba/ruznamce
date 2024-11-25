@@ -1,0 +1,3 @@
+# Ruznamçe
+
+KadimElifba sahifesinin ruznamçesidir.
